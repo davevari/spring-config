@@ -1,12 +1,3 @@
 cook:
   special: Filet Mignon
   favoriteColor: green
-
-Configutation:
-  Loggers:
-      Logger:
-        - name: com.pearson.architecture.sandbox.Menu
-          additivity: false
-          level: debug
-          AppenderRef:
-            - ref: CONSOLE
