@@ -1,5 +1,6 @@
 configserver: true
 bus: true
+dave: 49
 
 eureka:
   instance:
